@@ -1,4 +1,20 @@
-# Zai-Fi
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn`
+
+installs the required dependices.
+
+
+### `yarn start`
+
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+# ZAI
 
 ZAI is an experimental, VAI-pegged algorithmic stablecoin built on bsc designed to enable open market activities and capital efficient supply dynamics. At its core, ZAI is a fork of Empty Set Dollar (ESD) with mechanics evolving the fundamental components of Stability, Composability, and Decentralisation
 
